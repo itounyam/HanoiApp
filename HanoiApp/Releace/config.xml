@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hanoi-config>
+  <time>
+      <move-num-interval>1000</move-num-interval>
+  </time>
+</hanoi-config>
